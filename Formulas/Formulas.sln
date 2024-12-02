@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulas", "Formulas\Formulas.csproj", "{B941E108-AAEF-4D9C-8DE9-7D9242F2D67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B941E108-AAEF-4D9C-8DE9-7D9242F2D67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B941E108-AAEF-4D9C-8DE9-7D9242F2D67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B941E108-AAEF-4D9C-8DE9-7D9242F2D67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B941E108-AAEF-4D9C-8DE9-7D9242F2D67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF024765-B183-4925-954B-D3E3AEE05D80}
+	EndGlobalSection
+EndGlobal
